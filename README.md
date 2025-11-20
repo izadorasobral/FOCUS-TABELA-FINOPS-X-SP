@@ -1,4 +1,4 @@
-# 📊 FOCUS-TABELA-FINOPS-X-SP
+# FOCUS-TABELA-FINOPS-X-SP
 Referência das 57 colunas da FOCUS Specification v1.2  
 Padronização de dados multi-cloud para FinOps.
 
